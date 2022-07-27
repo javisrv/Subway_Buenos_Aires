@@ -17,3 +17,6 @@ The datasets were obtained from the following links:
 # What files does this repository contain?
 - lineas_subte.jpeg → It is just a picture showing the subway lines and stations in the Autonomous City of Buenos Aires, Argentina.
 - Subway.ipynb → Data cleaning and analysis
+
+# Clarification 
+.csv files are not uploaded to the following repository because they are heavy. 
